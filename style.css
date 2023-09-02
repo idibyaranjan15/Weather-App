@@ -106,6 +106,43 @@ body{
     margin: top 10px;
     display:none;
 }
+@media (max-width: 768px) {
+    .search input {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    .search button {
+        width: 50px;
+        height: 50px;
+    }
+
+    .weather-icon {
+        width: 120px;
+    }
+
+    .weather h1 {
+        font-size: 60px;
+    }
+
+    .weather h2 {
+        font-size: 36px;
+    }
+
+    .details {
+        margin-top: 30px;
+    }
+
+    .col img {
+        width: 30px;
+    }
+
+    .humidity,
+    .wind {
+        font-size: 24px;
+        margin-top: -4px;
+    }
+}
 .footer-content{
     position: absolute;
     bottom: 0;
