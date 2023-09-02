@@ -1,6 +1,7 @@
 # Weather-App
 
 This Weather App is a simple web application that allows users to check the current weather for a specific city. It provides real-time weather information, including temperature, humidity, wind speed, and a weather icon.
+![Weather App Screenshot](screenshots/screenshot.png)
 
 Skills Utilized
 This project showcases the following skills:
